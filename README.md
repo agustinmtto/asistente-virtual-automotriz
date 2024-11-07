@@ -26,7 +26,7 @@ pip install google-generativeai
 - API Key: Configura tu clave API de Google Generative AI directamente en el código, reemplazando "Ingrese su APIKEY aqui" con tu clave de API.
 - Instrucciones del sistema: El asistente está configurado con un conjunto de instrucciones predefinidas que definen cómo debe comportarse en diferentes situaciones.
 
-- ## Uso
+## Uso
 - Una vez configurado, ejecuta el siguiente script para interactuar con el modelo de IA:
 ```python
 python asistente_virtual.py
