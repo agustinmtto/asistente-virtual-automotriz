@@ -29,7 +29,7 @@ pip install google-generativeai
 ## Uso
 - Una vez configurado, ejecuta el siguiente script para interactuar con el modelo de IA:
 ```python
-python asistente_virtual.py
+python chatbot.py
 ```
 Esto iniciará una sesión de chat donde puedes interactuar con el modelo. Escribe tus consultas y el modelo te responderá de manera contextual.
 
