@@ -1,11 +1,12 @@
 # Asistente Virtual Automotriz
 
-Este proyecto implementa un asistente virtual basado en la API de Google Generative AI para una empresa automotriz. El asistente está diseñado para proporcionar soporte al cliente relacionado con vehículos, incluyendo mantenimiento, financiamiento, programación de citas y actualizaciones sobre pedidos de vehículos. 
+Este proyecto implementa un asistente virtual basado en la API de Google Generative AI para una empresa automotriz. El asistente está diseñado para proporcionar soporte al cliente relacionado con vehículos, incluyendo mantenimiento, financiamiento, programación de citas y actualizaciones sobre pedidos de vehículos.
 
 Actualmente, se encuentra en proceso de diseño la integración de una base de datos que almacenaría información relevante, como precios de vehículos, stock, historial de reparaciones y otros datos específicos de la empresa. Esta integración permitirá ofrecer respuestas más personalizadas y en tiempo real.
 
-El asistente es altamente personalizable, permitiendo adaptar sus respuestas y comportamientos según las necesidades de la empresa, lo que optimiza tanto la experiencia del cliente como las operaciones de soporte.
+Además, se está trabajando en el diseño de barreras éticas y operativas para que la IA no cruce ciertos límites, asegurando que el asistente no responda fuera de los parámetros establecidos, utilizando un motor de flujo o una lógica de control adecuada para definir esos límites.
 
+El asistente es altamente personalizable, permitiendo adaptar sus respuestas y comportamientos según las necesidades de la empresa, lo que optimiza tanto la experiencia del cliente como las operaciones de soporte.
 
 
 ## Características
